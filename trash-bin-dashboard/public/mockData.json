@@ -1,0 +1,6 @@
+[
+    { "id": 1, "location": "Park", "fillLevel": 40 },
+    { "id": 2, "location": "Mall", "fillLevel": 90 },
+    { "id": 3, "location": "School", "fillLevel": 60 }
+]
+  
